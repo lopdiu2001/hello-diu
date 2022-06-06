@@ -9,9 +9,9 @@ const CONFIG = {
     btnNo: 'Nhìu siu to khổng lồ',
     question: 'Cảm nghĩ của bạn về sản phẩm xịn xò này sau 4 tháng?',
     btnReply: 'Gửi cho tui <3',
-    reply: 'Tùy diu viết',
+    reply: '',
     mess: 'okela, lớp diu xâu mớt',
     messDesc: 'Chúc chúng mình hạnh phúc vui vẻ mạnh khỏe :))))',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100005637903599' 
+    messLink: 'https://www.facebook.com/messages/t/100013718015957' 
 }
