@@ -7,11 +7,11 @@ const CONFIG = {
     desc: 'Ê làm cho vui chớ khum biết chi hết :))))',
     btnYes: 'Khum nhìu lắm',
     btnNo: 'Nhìu siu to khổng lồ',
-    question: 'Cảm nghĩ của bạn về sản phẩm xịn xò này sau 4 tháng?',
+    question: 'Cảm nghĩ của bạn về sản phẩm xịn xò này?',
     btnReply: 'Gửi cho tui <3',
 
     mess: 'okela, lớp diu xâu mớt',
     messDesc: 'Chúc chúng mình hạnh phúc vui vẻ mạnh khỏe :))))',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100013718015957' 
+    messLink: 'https://www.facebook.com/messages/t/' 
 }
